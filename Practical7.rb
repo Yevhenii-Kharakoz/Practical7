@@ -54,7 +54,6 @@ def huffman_decode(encoded_text, tree)
   decoded_text
 end
 
-# Пример использования:
 
 text = "Ruby"
 encoded_text, huffman_tree = huffman_encode(text)
